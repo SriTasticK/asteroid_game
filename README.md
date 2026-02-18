@@ -27,7 +27,7 @@ This is a fun project created by me just for fun while learning and experimentin
 This project is built using:
 
 - 🐍 **Python**
-- 🎮 **Pygame** — a popular library for making games with Python :contentReference[oaicite:1]{index=1}
+- 🎮 **Pygame** — a popular library for making games with Python.
 
 ---
 
@@ -82,3 +82,4 @@ All contributions and suggestions are welcome! 🙌
 📝 License
 
 This project is currently unlicensed. Add a license file if you want others to reuse or build from your code.
+
